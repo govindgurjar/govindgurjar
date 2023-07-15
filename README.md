@@ -12,8 +12,6 @@
                                            
 #### Known Languages
 <img align="left" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-
-<!-- <img  src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /> -->
    
 #### Know How To Use
 <img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
